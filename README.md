@@ -18,5 +18,7 @@ Internal retail sales transaction records covering the 2024 fiscal year include:
 
 •	October recorded the highest monthly sales of the 2024 fiscal period.
 
+## Dashboard Image
+<img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/e5ae18d0-27af-445a-b3eb-e2674b3159fe" />
 
 
