@@ -7,7 +7,7 @@ CharlyStore needed to understand which products, regions, and time periods were 
 Internal retail sales transaction records covering the 2024 fiscal year include: product names, categories, regional sales data, monthly revenue figures, and order volumes—total $4.19M across 3,300 orders.
 
 ## Data Cleaning
-Internal retail sales transaction records covering the 2024 fiscal year include: product names, categories, regional sales data, monthly revenue figures, and order volumes—total $4.19M across 3,300 orders.
+Removed duplicate order entries, standardised product category labels, validated regional groupings and checked for missing revenue values across the transaction records.
 
 ## Analysis
 •	Stapler was the top revenue-generating product at $203,693.21. Among the top five products, Smartphones contributed the lowest revenue, suggesting room for targeted repositioning. 
@@ -20,5 +20,15 @@ Internal retail sales transaction records covering the 2024 fiscal year include:
 
 ## Dashboard Image
 <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/e5ae18d0-27af-445a-b3eb-e2674b3159fe" />
+
+##  Recommendation
+•	Reallocate smartphone inventory to the East region, the highest revenue contributor, to improve product visibility and boost underperforming sales
+
+•	Optimise the October period by ensuring maximum product availability and supply ahead of the seasonal peak
+
+•	Prioritise the East region for stocking other underperforming categories to leverage its proven high-demand market
+
+## Business Impact
+Reallocating part of Smartphone inventory to the East region could be tested as a sales improvement strategy, given the region's stronger revenue performance
 
 
